@@ -17,8 +17,8 @@ Après avoir lu l’appel à projets, voici les différentes étapes que vous av
 - Réfléchissant à une idée d’application.
 - Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
 - Nettoyant les données en :  
- - mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées,
- - identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable. 
+  - mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées,
+  - identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable. 
 - Automatisant ces traitements pour éviter de répéter ces opérations
 
 2) Tout au long de l’analyse, produire des visualisations afin de mieux comprendre les données. Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement.    
@@ -33,9 +33,9 @@ Après avoir lu l’appel à projets, voici les différentes étapes que vous av
 - Un notebook du nettoyage des données (non cleané, pour comprendre votre démarche). 
 - Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées (non cleané, pour comprendre votre démarche).
 - Une présentation, à utiliser en support pour la soutenance, comprenant :
- - La présentation de votre idée d’application.
- - Les opérations de nettoyage effectuées.
- - La description et l'analyse univariée des différentes variables importantes avec les visualisations associées.
- - L’analyse multivariée et les résultats statistiques associés, en lien avec votre idée d’application.
- - 3 observations solidement étayées (graphes et/ou tests statistiques à l’appui au besoin) évaluant la pertinence et la faisabilité de votre application.
- - La synthèse des différentes conclusions sur la faisabilité de votre projet.
+  - La présentation de votre idée d’application.
+  - Les opérations de nettoyage effectuées.
+  - La description et l'analyse univariée des différentes variables importantes avec les visualisations associées.
+  - L’analyse multivariée et les résultats statistiques associés, en lien avec votre idée d’application.
+  - 3 observations solidement étayées (graphes et/ou tests statistiques à l’appui au besoin) évaluant la pertinence et la faisabilité de votre application.
+  - La synthèse des différentes conclusions sur la faisabilité de votre projet.
