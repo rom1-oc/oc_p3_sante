@@ -9,7 +9,6 @@
 
 # Contexte
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
-L'agence Santé publique France
 
 # Objectifs
 Après avoir lu l’appel à projets, voici les différentes étapes que vous avez identifiées :  
